@@ -1,0 +1,10 @@
+// POLICE D'ECRITURE
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Outfit:wght@200&family=Plus+Jakarta+Sans:wght@700&display=swap');
+
+// PRINCIPALE
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Noto Sans', sans-serif; }  
+
+// FICHIER SCSS
+@import 'page';
+@import 'variables';
